@@ -1,0 +1,14 @@
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\bin\Debug\netcoreapp2.1\JWTAuthen.deps.json
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\bin\Debug\netcoreapp2.1\JWTAuthen.runtimeconfig.json
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\bin\Debug\netcoreapp2.1\JWTAuthen.runtimeconfig.dev.json
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\bin\Debug\netcoreapp2.1\JWTAuthen.dll
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\bin\Debug\netcoreapp2.1\JWTAuthen.pdb
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\obj\Debug\netcoreapp2.1\JWTAuthen.csprojAssemblyReference.cache
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\obj\Debug\netcoreapp2.1\JWTAuthen.csproj.CoreCompileInputs.cache
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\obj\Debug\netcoreapp2.1\JWTAuthen.RazorAssemblyInfo.cache
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\obj\Debug\netcoreapp2.1\JWTAuthen.RazorAssemblyInfo.cs
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\obj\Debug\netcoreapp2.1\JWTAuthen.AssemblyInfoInputs.cache
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\obj\Debug\netcoreapp2.1\JWTAuthen.AssemblyInfo.cs
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\obj\Debug\netcoreapp2.1\JWTAuthen.RazorTargetAssemblyInfo.cache
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\obj\Debug\netcoreapp2.1\JWTAuthen.dll
+C:\Users\ac39563\source\repos\JWTAuthen\JWTAuthen\obj\Debug\netcoreapp2.1\JWTAuthen.pdb
